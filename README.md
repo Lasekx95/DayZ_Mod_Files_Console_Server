@@ -5,5 +5,5 @@
     Boosted_Zombie_Spawns:
       Boosts default zombie spawns for default spawn locations
 
-#Copy and paste files 
-#Will merge any additions to help my fellow console gamers
+Copy and paste files to use <br>
+Will merge any additions to help my fellow console gamers
