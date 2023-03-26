@@ -1,0 +1,1739 @@
+{
+"Areas": [
+	{ 	"AreaName": "W_Nagornoe-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	7846.71, 0, 14760.22	],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Stary-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	5109.31, 0, 14993.52	],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "NW_Army-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	1586.45, 0, 14044.76	],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Sinystok-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	1648.67, 0, 11789.51	],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Novaya-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	3398.43, 0, 12940.47	],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "NAF-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	4043.90, 0, 12333.88	],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+	
+	{ 	"AreaName": "Kamensk-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	6711.31, 0, 14293.62	],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Ratnoe-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	6221.38    , 0, 12263.89 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Gvozdno-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	8531.07    , 0, 12333.88 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "SE_Svergino-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	10047.53   , 0, 13733.69 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Novo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	11540.66  , 0, 4394.71 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	
+	{ 	"AreaName": "Turovo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	13601.49  , 0, 14511.37 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Polyana-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	12131.69  , 0, 13772.58 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "Olsha-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	13391.52  , 0, 112917.14 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "Krasno-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	10591.90  , 0, 12162.79 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "N_Berenzino-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	13360.41  , 0, 11688.41 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Berenzino-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	12263.89  , 0, 9798.67 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "E_NWAF-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	6983.50  , 0, 11105.16 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "Dubrovka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	10140.85  , 0, 10241.94 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+	
+	{ 	"AreaName": "NW_Gorka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	8056.69 , 0, 10576.34 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "West_Gorka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	7753.39 , 0, 9238.75 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	
+	{ 	"AreaName": "Kabanino-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	5194.85 , 0, 8904.35 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	
+	{ 	"AreaName": "Grishino-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	6345.81 , 0, 10724.10 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "NWAF-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	4409.40 , 0, 10529.68 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "South_Vavilovo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	1951.96 , 0, 10413.03 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Bogatyrka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	1399.81 , 0, 8787.70 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "North_Rogo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	3235.12 , 0, 8017.80 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "North_Rogo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	4393.85 , 0, 7185.69 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+	{ 	"AreaName": "Novo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	6579.11 , 0, 7784.50 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Nizh-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	12816.04 , 0, 8064.46 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "West_Polana-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	8811.03, 0, 7924.48 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Polana-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	10716.32, 0, 8150.01 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Orlovets-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 	12318.33, 0, 7380.11 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Solnichniy-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 13391.52, 0, 6198.05 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Dolina-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 11198.48, 0, 6571.33 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Vysh-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 6641.32, 0, 5995.85 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Sosnovka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 4440.51, 0, 6205.82 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Sosnovka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 2550.77, 0, 6322.48 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+	
+	{ 	"AreaName": "Zelenogorsk-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 2760.74, 0, 5171.52 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "pavlovo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 3336.21, 0, 4751.58 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "Kozlovka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 2729.63, 0, 5117.08 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Kozlovka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 4347.19, 0, 4666.03 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "Pulkovo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 4969.33, 0, 5498.14 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Vyshnoye-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 5863.65, 0, 4704.92 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Vyshnoye-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 6703.54, 0, 5995.85 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+	
+	{ 	"AreaName": "Mogilevka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 7628.97, 0, 5078.20 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Kumyrna-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 8367.75, 0, 6050.29 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Guglovo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 8523.29, 0, 6516.89 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Shakhovka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 9767.56, 0, 6408.02 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Staroye-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 10273.05, 0, 5334.83 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Msta-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 11299.58, 0, 5350.39 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Tulga-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 12816.04, 0, 4292.75 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Kamy-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 12108.36, 0, 3367.32 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Elektro-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 11245.14, 0, 3289.55 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Elektro-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 10273.05, 0, 2060.83 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "Pusta-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 9215.42, 0, 3787.26 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Prigo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 8756.59, 0, 2410.78 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Prig-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 6532.45, 0, 3483.97 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Cherno-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 6532.45, 0, 2628.53 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Vysoto-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 5700.34, 0, 2333.02 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+	{ 	"AreaName": "Kamenka-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 2029.72, 0, 2115.27 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Komarovo-Fog", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 3787.26, 0, 2364.12 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+	{ 	"AreaName": "Balota-Airfield", 
+	"Type": "ContaminatedArea_Static", 
+	"TriggerType": "effecttrigger",
+	"Data": { 
+		"Pos": [ 5065.56, 0, 2261.08 ],
+		"Radius": 1000,
+		"PosHeight": 22,
+		"NegHeight": 10,
+		"InnerRingCount": 10,
+		"InnerPartDist": 10,
+		"OuterRingToggle": 10, 
+		"OuterPartDist": 10, 
+		"OuterOffset": 0, 
+		"VerticalLayers": 0,
+		"VerticalOffset": 0,
+		"ParticleName": "graphics/particles/spooky_mist"
+		},
+	"PlayerData": {
+		"AroundPartName": "graphics/particles/",
+		"TinyPartName": "graphics/particles/",
+		"PPERequesterType": ""
+	}
+},
+
+
+
+
+
+
+
+
+
+
+     { 	"AreaName": "South-Tisy", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "effecttrigger",
+			"Data": { 
+				"Pos": [ 3570, 0, 14545 ],
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 10,
+				"InnerPartDist": 10,
+				"OuterRingToggle": 10, 
+				"OuterPartDist": 10, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/",
+				"TinyPartName": "graphics/particles/",
+				"PPERequesterType": ""
+			}
+		},
+
+
+
+
+
+		{ 	"AreaName": "Ship-SW", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 13684, 0, 11073 ],
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Ship-NE", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 13881, 0, 11172 ],
+				"Radius": 100,
+				"PosHeight": 26,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Ship-Central", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 13752, 0, 11164 ],
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 2,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 60, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Pavlovo-North", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 2043, 0, 3485 ],
+				"Radius": 150,
+				"PosHeight": 25,
+				"NegHeight": 20,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Pavlovo-South", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 2164, 0, 3335 ],
+				"Radius": 150,
+				"PosHeight": 11,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		}
+    ],
+
+	"SafePositions":[
+		[434, 13624],
+		[360, 10986],
+		[1412, 13505],
+		[1290, 11773],
+		[5742, 8568],
+		[4191, 4620],
+		[4949, 6569],
+		[1018, 7138],
+		[5041, 2640],
+		[6895, 7915],
+		[6128, 8120],
+		[4422, 8117],
+		[2811, 10209],
+		[1954, 2417],
+		[3633, 8708],
+		[5222, 5737],
+		[3546, 2630],
+		[2373, 5516],
+		[2462, 6879],
+		[1653, 3600],
+		[11774, 14570],
+		[8228, 9345],
+		[11100, 13400],
+		[9333, 8697],
+		[11513, 12203],
+		[4955, 10603],
+		[5090, 15054],
+		[6513, 14579],
+		[3483, 14941],
+		[4016, 11194],
+		[7607, 12384],
+		[4307, 9528],
+		[3266, 12352],
+		[4432, 13285],
+		[5473, 12455],
+		[9731, 13685],
+		[2745, 7784],
+		[8492, 14128],
+		[3501, 13292],
+		[7912, 10943],
+		[4165, 10134],
+		[10536, 7871],
+		[1467, 14288],
+		[5479, 9709],
+		[9453, 11963],
+		[319, 9212],
+		[8009, 14843],
+		[7206, 7158],
+		[12303, 13598],
+		[3435, 5959],
+		[4060, 12050],
+		[6633, 2988],
+		[870, 2095],
+		[10286, 9071],
+		[10371, 5690]
+	]
+}
