@@ -185,6 +185,38 @@
             <child lootmax="0" lootmin="0" max="12" min="0" type="Animal_CanisLupus_White"/>
         </children>
     </event>
+
+        <!-- Zombie Hordes-->
+    <event name="InfectedHorde">
+        <nominal>50</nominal>
+        <min>1</min>
+        <max>150</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>10</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbM_PolicemanFat"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbF_Clerk_Normal_Green"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbF_JournalistNormal_White"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbF_ShortSkirt_black"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbF_ShortSkirt_red"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbF_ShortSkirt_stripes"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbF_SurvivorNormal_Orange"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbM_CitizenASkinny_Brown"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbM_ClerkFat_Brown"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbM_CommercialPilotOld_Grey"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbM_MotobikerFat_Black"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbM_SkaterYoung_Blue"/>
+        </children>
+    </event>
+
+    <!-- Boosted Spawns -->
     <event name="InfectedArmy">
         <nominal>200</nominal>
         <min>25</min>
@@ -216,7 +248,7 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="12" lootmin="0" max="70" min="30" type="ZmbM_SoldierNormal"/>
+            <child lootmax="12" lootmin="0" max="50" min="10" type="ZmbF_CitizenANormal_Brown"/>
         </children>
     </event>
     <event name="InfectedCity">
@@ -1080,4 +1112,5 @@
             <child lootmax="0" lootmin="0" max="12" min="3" type="Truck_01_Covered_Orange"/>
         </children>
     </event>
+
 </events>
